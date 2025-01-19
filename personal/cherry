@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cherry Product Page</title>
+<link rel="stylesheet" href="cherrys.css">
+</head>
+<body>
+
+<div class="left-section">
+  <h1>Tart & Sweet</h1>
+  <img src="cherries.png" alt="Cherries Illustration">
+</div>
+
+<div class="right-section">
+  <h2>Cherries</h2>
+</div>
+
+ </body>
+</html>

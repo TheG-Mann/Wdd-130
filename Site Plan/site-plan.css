@@ -1,0 +1,35 @@
+/* site-plan.css */
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+
+header, main {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #f72585;
+}
+
+img {
+    margin: 20px;
+    width: 150px;
+}
+
+table.colors {
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table.colors th, table.colors td {
+    border: 1px solid #fff;
+    padding: 10px;
+}
+
+table.colors th {
+    background-color: #000000;
+}
